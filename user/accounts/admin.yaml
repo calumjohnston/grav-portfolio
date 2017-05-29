@@ -1,0 +1,11 @@
+email: calumjohnston1@gmail.com
+fullname: 'Calum Johnston'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$mQq9I1rBOjb99LZ59Z03iOb0/0HU3QX7n1iqRe1/Eus44VpuRWH9G
